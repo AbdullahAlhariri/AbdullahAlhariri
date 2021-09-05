@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![Abdullah-Alhariri](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdullah-Alhariri&theme=default)
+![Abdullah-Alhariri GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Alhariri&show_icons=false&theme=gruvbox&bg_color=-15,ef4136,fbb040&title_color=fff&text_color=fff)
 
 ## Programming Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
