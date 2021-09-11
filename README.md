@@ -23,4 +23,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Abdullah-Alhariri&color=ef4136)
 
+## Working on 
+- ![Profile-template](https://github.com/Abdullah-Alhariri/simple-profile-template)
+- ![Crud project](https://github.com/Abdullah-Alhariri/node)
+
 <h6>last updated: 06-September-2021<h6>
