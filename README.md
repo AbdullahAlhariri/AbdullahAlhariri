@@ -30,6 +30,6 @@ wasting time again
 - A front-end [school project](https://github.com/Abdullah-Alhariri/stunning-happines)
 - A node [Crud project](https://github.com/Abdullah-Alhariri/node)
 
-<h6>last updated: 11-September-2021<h6>
+<h6>last updated: 15-September-2021<h6>
      
 ![](https://komarev.com/ghpvc/?username=Abdullah-Alhariri&color=ef4136)
