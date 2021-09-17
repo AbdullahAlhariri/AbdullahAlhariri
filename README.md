@@ -20,16 +20,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## What can I do the best?
-wasting time
-and 
-wasting time again
-
 ## Working on 
 - A simple [Profile template](https://github.com/Abdullah-Alhariri/simple-profile-template)
 - A front-end [school project](https://github.com/Abdullah-Alhariri/stunning-happines)
 - A node [Crud project](https://github.com/Abdullah-Alhariri/node)
 
-<h6>last updated: 15-September-2021<h6>
+<h6>last updated: 17-September-2021<h6>
      
 ![](https://komarev.com/ghpvc/?username=Abdullah-Alhariri&color=ef4136)
