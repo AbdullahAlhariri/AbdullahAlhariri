@@ -23,8 +23,7 @@
 ## Working on 
 - A simple [Profile template](https://github.com/Abdullah-Alhariri/simple-profile-template)
 - A front-end [school project](https://github.com/Abdullah-Alhariri/stunning-happines)
-- A node [Crud project](https://github.com/Abdullah-Alhariri/node)
 
-<h6>last updated: 17-September-2021<h6>
+<h6>last updated: 25-September-2021<h6>
      
 ![](https://komarev.com/ghpvc/?username=Abdullah-Alhariri&color=ef4136)
