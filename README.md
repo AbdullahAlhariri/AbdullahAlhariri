@@ -1,3 +1,5 @@
+## `I'm unavailable, got some other work to do instead of programming`
+
 # Hi there 👋
 
 ![Abdullah-Alhariri GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Alhariri&show_icons=false&theme=gruvbox&bg_color=-15,ef4136,fbb040&title_color=fff&text_color=fff)
@@ -24,6 +26,6 @@
 - A simple [Profile template](https://github.com/Abdullah-Alhariri/simple-profile-template)
 - A front-end [school project](https://github.com/Abdullah-Alhariri/stunning-happines)
 
-<h6>last updated: 25-September-2021<h6>
+<h6>last updated: 30-September-2021<h6>
      
 ![](https://komarev.com/ghpvc/?username=Abdullah-Alhariri&color=ef4136)
