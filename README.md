@@ -1,4 +1,6 @@
-# Hi there 👋
+# Hey there 👋
+
+![Abdullah-Alhariri Github activity Graph](https://activity-graph.herokuapp.com/graph?username=Abdullah-Alhariri&show_icons=false&theme=gruvbox&bg_color=-15,ef4136,fbb040&title_color=fff&text_color=fff&hide_border=true)
 
 ![Abdullah-Alhariri GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Alhariri&show_icons=false&theme=gruvbox&bg_color=-15,ef4136,fbb040&title_color=fff&text_color=fff)
 
@@ -21,9 +23,8 @@
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Working on 
-- A simple [Profile template](https://github.com/Abdullah-Alhariri/simple-profile-template)
-- A front-end [school project](https://github.com/Abdullah-Alhariri/stunning-happines)
+- Tech news website [BlogDrift](https://github.com/BlogDrift), 
 
-<h6>last updated: 01-October-2021<h6>
+<h6>last updated: 03 Jan 2021<h6>
      
 ![](https://komarev.com/ghpvc/?username=Abdullah-Alhariri&color=ef4136)
