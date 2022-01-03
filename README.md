@@ -2,7 +2,7 @@
 
 ![Abdullah-Alhariri Github activity Graph](https://activity-graph.herokuapp.com/graph?username=Abdullah-Alhariri&show_icons=false&theme=gruvbox&bg_color=-15,ef4136,fbb040&title_color=fff&text_color=fff&hide_border=true)
 
-![Abdullah-Alhariri GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Alhariri&show_icons=false&theme=gruvbox&bg_color=-15,ef4136,fbb040&title_color=fff&text_color=fff)
+<!-- ![Abdullah-Alhariri GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Alhariri&show_icons=false&theme=gruvbox&bg_color=-15,ef4136,fbb040&title_color=fff&text_color=fff) -->
 
 ## Programming Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
