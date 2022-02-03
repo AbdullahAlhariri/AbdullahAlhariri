@@ -26,6 +26,6 @@
 - online survey [BlogDrift](https://github.com/laravel_survey)
 - Tech news website [BlogDrift](https://github.com/BlogDrift) - Done
 
-<h6>last updated: 03 Feb 2021<h6>
+<h6>last updated: 03 Feb 2022<h6>
      
 ![](https://komarev.com/ghpvc/?username=Abdullah-Alhariri&color=ef4136)
