@@ -23,8 +23,9 @@
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Working on 
-- Tech news website [BlogDrift](https://github.com/BlogDrift), 
+- online survey [BlogDrift](https://github.com/laravel_survey)
+- Tech news website [BlogDrift](https://github.com/BlogDrift) - Done
 
-<h6>last updated: 18 Jan 2021<h6>
+<h6>last updated: 03 Feb 2021<h6>
      
 ![](https://komarev.com/ghpvc/?username=Abdullah-Alhariri&color=ef4136)
