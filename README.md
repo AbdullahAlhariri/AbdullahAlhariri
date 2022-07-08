@@ -22,10 +22,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## Working on 
-- online survey [BlogDrift](https://github.com/laravel_survey) - Done
-- Tech news website [BlogDrift](https://github.com/BlogDrift) - Done
-
-<h6>last updated: 17 Apr 2022<h6>
+<h6>last updated: 8 Jul 2022<h6>
      
 ![](https://komarev.com/ghpvc/?username=Abdullah-Alhariri&color=ef4136)
