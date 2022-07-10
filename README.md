@@ -24,4 +24,4 @@
 
 <h6>last updated: 9 Jul 2022<h6>
      
-![](https://komarev.com/ghpvc/?username=Abdullah-Alhariri&color=ef4136) Bot; Trying to get to one million 🙂
+![](https://komarev.com/ghpvc/?username=Abdullah-Alhariri&color=ef4136) 
