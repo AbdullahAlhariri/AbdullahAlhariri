@@ -22,6 +22,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<h6>last updated: 9 Jul 2022<h6>
+<h6>last updated: 25 Jul 2022<h6>
      
-![](https://komarev.com/ghpvc/?username=Abdullah-Alhariri&color=ef4136) 
+![](https://komarev.com/ghpvc/?username=Abdullah-Alhariri&color=ef4136) Bot; trying to make this one million
