@@ -1,6 +1,6 @@
 # Hey there 👋
 
-![Abdullah-Alhariri Github activity Graph](https://activity-graph.herokuapp.com/graph?username=Abdullah-Alhariri&theme=github&bg_color=22272E&title_color=fff&text_color=fff&hide_border=true)
+<!-- ![Abdullah-Alhariri Github activity Graph](https://activity-graph.herokuapp.com/graph?username=Abdullah-Alhariri&theme=github&bg_color=22272E&title_color=fff&text_color=fff&hide_border=true) -->
 
 <!-- ![Abdullah-Alhariri GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Alhariri&show_icons=false&theme=gruvbox&bg_color=-15,ef4136,fbb040&title_color=fff&text_color=fff) -->
 
